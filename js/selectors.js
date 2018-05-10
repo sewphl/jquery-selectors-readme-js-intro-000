@@ -3,11 +3,15 @@ function paragraphSelector() {
   return $('p');
 }
 
+
+function lastImageSelector() {
+
+}
+
+function ninjaBabySelector() {
+  return $("img[alt='baby-ninja']");
+}
 /*
-function lastImageSelector() {}
-
-function ninjaBabySelector() {}
-
 function divSelector() {}
 
 function firstListItem() {}
